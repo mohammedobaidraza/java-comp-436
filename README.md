@@ -1,6 +1,6 @@
 # Background
 
-The goal of this project is to convert a simple Java stopwatch to an
+The goal of this project was to convert a simple Java stopwatch to an
 Android application.  
 
 # Learning Objectives
